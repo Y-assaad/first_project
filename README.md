@@ -1,2 +1,2 @@
 # first_project
-for learning
+##for learning git & github
